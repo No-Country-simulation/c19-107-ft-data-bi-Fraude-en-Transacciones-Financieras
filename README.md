@@ -1,6 +1,6 @@
 
 
-# c19-107-ft-data-bi | Fraude-en-Transacciones-Financieras
+# c19-107-ft-data-bi | Fraude-en-Transacciones-Financieras.
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning predictivo para detectar transacciones financieras fraudulentas, especialmente en pagos electrónicos como tarjetas de crédito. Además, se integrará información del Banco Central de la República Argentina (BCRA) relacionada con cheques rechazados, dada la relevancia de la emisión de cheques sin fondos como una forma de fraude financiero.
