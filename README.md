@@ -1,7 +1,7 @@
 # c19-107-ft-data-bi | Fraude-en-Transacciones-Financieras
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) para detectar fraudes en transacciones financieras. Se trabajará con dos conjuntos de datos: uno enfocado exclusivamente en fraudes con tarjetas de crédito y otro que incluye todos los medios de pago. La finalidad es hacer una predicción de los fraudes que podría enfrentar una startup en el año 2025, a medida que se expanda a diferentes ciudades. Además, se integrará información del Banco Central de la República Argentina (BCRA) relacionada con cheques rechazados, dada la relevancia de la emisión de cheques sin fondos como una forma de fraude financiero.
+Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) para detectar fraudes en transacciones financieras. Se trabajará con dos conjuntos de datos: uno enfocado exclusivamente en fraudes con tarjetas de crédito y otro que incluye todos los medios de pago. La finalidad es realizar una predicción de los fraudes que podría enfrentar una startup en el año 2025, a medida que se expanda a diferentes ciudades. Además, se integrará información del Banco Central de la República Argentina (BCRA) relacionada con cheques rechazados, dada la relevancia de la emisión de cheques sin fondos como una forma de fraude financiero.
 
 ## Equipo
 
