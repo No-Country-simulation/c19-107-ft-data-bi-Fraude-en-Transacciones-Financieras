@@ -36,11 +36,13 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 ### **Team Leader: María Mercedes Ramella**
 
 **Responsabilidades**:
+
 - **Liderazgo del Equipo**: Proveer dirección y guía al equipo, asegurando que los objetivos del proyecto se cumplan de manera efectiva.
 - **Alineación Estratégica**: Asegurar que el proyecto esté alineado con los objetivos estratégicos de la startup y que se enfoque en las prioridades correctas.
 - **Gestión de Stakeholders**: Comunicación y gestión de expectativas con los stakeholders, incluyendo la presentación de avances y resultados.
 - **Soporte y Mentoría**: Proveer soporte y mentoría al equipo, ayudando a resolver problemas técnicos y organizativos.
 - **Evaluación y Mejora Continua**: Evaluar el progreso del equipo y del proyecto, implementando mejoras continuas en los procesos y prácticas de trabajo.
+- **Representante de la Empresa/Startup**: Actuar como el enlace principal con la empresa que ha contratado al equipo, asegurando que sus necesidades y expectativas sean claramente comunicadas y satisfechas. Proveer feedback regular y participar en la toma de decisiones críticas para el proyecto.
 
 ## Stack Tecnológico
 
