@@ -82,16 +82,6 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
       <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
     </a>
   </div>
-  <div style="text-align: center; margin-right: 20px;">
-    <img src="Recursos/Karina.png" alt="Karina Mas Roca" width="150" height="150">
-    <p><strong>Karina Mas Roca</strong></p>
-    <a href="https://github.com/misterio22" target="_blank">
-      <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
-    </a>
-    <a href="https://linkedin.com/in/karinamasroca/" target="_blank">
-      <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
-    </a>
-  </div>
   <div style="text-align: center;">
     <img src="Recursos/Mercedes.png" alt="María Mercedes Ramella" width="150" height="150">
     <p><strong>María Mercedes Ramella</strong></p>
@@ -116,7 +106,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 - **Integración de Datos**: Integración de diferentes fuentes de datos, incluyendo datos de transacciones financieras y cheques rechazados del BCRA.
 - **Colaboración y Soporte**: Trabajo conjunto con los Data Analysts y el Team Leader para asegurar la alineación del proyecto con los objetivos de negocio.
 
-### **Data Analyst/BI: Grelizet Rojas & Karina Mas Roca**
+### **Data Analyst/BI: Grelizet Rojas**
 
 **Responsabilidades**:
 - **Análisis de Datos**: Exploración y análisis de datos para descubrir patrones y tendencias relevantes para la detección de fraudes.
@@ -125,7 +115,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 - **Informes y Presentaciones**: Preparación de informes y presentaciones para comunicar hallazgos y recomendaciones al equipo y a los stakeholders.
 - **Soporte al Desarrollo del Modelo**: Colaboración con el Data Engineer y el equipo de Machine Learning para el desarrollo y la validación de modelos predictivos.
 
-### **Scrum Master: Karina, Grelizet y Edgar**
+### **Scrum Master: Grelizet y Edgar**
 
 **Responsabilidades**:
 - **Facilitación de Scrum**: Facilitación de ceremonias Scrum como las reuniones diarias (stand-ups), planificación de sprint, revisiones y retrospectivas.
