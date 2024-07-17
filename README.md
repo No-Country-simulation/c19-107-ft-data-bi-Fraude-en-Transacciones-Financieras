@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 
 <div style="display: flex; align-items: center;">
   <div style="text-align: center; margin-right: 20px;">
-    <img src="([c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Edgar.png](https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/9a726a51c8d1880d3b3cd518a303979b7c3c3891/Recursos/Edgar.png)" alt="Javier Edgar Esteban" width="150" height="150">
+    <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Edgar.png" alt="Javier Edgar Esteban" width="150" height="150">
     <p><strong>Javier Edgar Esteban</strong></p>
     <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
       <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\github.png" alt="GitHub" width="30" height="30">
@@ -22,31 +22,31 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
   <div style="text-align: center; margin-right: 20px;">
     <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Grezilet.png" alt="Grelizet Rojas" width="150" height="150">
     <p><strong>Grelizet Rojas</strong></p>
-    <a href="https://github.com/grelizet-link" target="_blank">
-      <img src="ruta_logo_github" alt="GitHub" width="30" height="30">
+    <a href="https://github.com/grelizet" target="_blank">
+      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\github.png" alt="GitHub" width="30" height="30">
     </a>
-    <a href="https://linkedin.com/in/grelizet-link" target="_blank">
-      <img src="ruta_logo_linkedin" alt="LinkedIn" width="30" height="30">
+    <a href="https://linkedin.com/in/grelizet-rojas-yepez" target="_blank">
+      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Linkedin.png" alt="LinkedIn" width="30" height="30">
     </a>
   </div>
   <div style="text-align: center; margin-right: 20px;">
     <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Karina.png" alt="Karina Mas Roca" width="150" height="150">
     <p><strong>Karina Mas Roca</strong></p>
-    <a href="https://github.com/karina-link" target="_blank">
-      <img src="ruta_logo_github" alt="GitHub" width="30" height="30">
+    <a href="https://github.com/misterio22" target="_blank">
+      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\github.png" alt="GitHub" width="30" height="30">
     </a>
-    <a href="https://linkedin.com/in/karina-link" target="_blank">
-      <img src="ruta_logo_linkedin" alt="LinkedIn" width="30" height="30">
+    <a href="https://linkedin.com/in/karinamasroca/" target="_blank">
+      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Linkedin.png" alt="LinkedIn" width="30" height="30">
     </a>
   </div>
   <div style="text-align: center;">
     <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Mercedes.png" alt="María Mercedes Ramella" width="150" height="150">
     <p><strong>María Mercedes Ramella</strong></p>
-    <a href="https://github.com/mercedes-link" target="_blank">
-      <img src="ruta_logo_github" alt="GitHub" width="30" height="30">
+    <a href="https://github.com/MechiRamella" target="_blank">
+      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\github.png" alt="GitHub" width="30" height="30">
     </a>
-    <a href="https://linkedin.com/in/mercedes-link" target="_blank">
-      <img src="ruta_logo_linkedin" alt="LinkedIn" width="30" height="30">
+    <a href="https://linkedin.com/in/mercedes-ramella/" target="_blank">
+      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Linkedin.png" alt="LinkedIn" width="30" height="30">
     </a>
   </div>
 </div>
