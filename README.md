@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 
 <div style="display: flex; align-items: center;">
   <div style="text-align: center; margin-right: 20px;">
-    <img src="[c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Edgar.png](https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/9a726a51c8d1880d3b3cd518a303979b7c3c3891/Recursos/Edgar.png)" alt="Javier Edgar Esteban" width="150" height="150">
+    <img src="([c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Edgar.png](https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/9a726a51c8d1880d3b3cd518a303979b7c3c3891/Recursos/Edgar.png)" alt="Javier Edgar Esteban" width="150" height="150">
     <p><strong>Javier Edgar Esteban</strong></p>
     <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
       <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\github.png" alt="GitHub" width="30" height="30">
