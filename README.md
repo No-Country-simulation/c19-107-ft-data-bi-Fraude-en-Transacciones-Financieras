@@ -1,4 +1,4 @@
-![Banner](c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Banner.png)
+![Banner](Recursos/Banner.png)
 # c19-107-ft-data-bi | Fraude-en-Transacciones-Financieras
 
 ## Descripción del Proyecto
