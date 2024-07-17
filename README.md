@@ -1,7 +1,59 @@
+<!-- Banner -->
 ![Banner](Recursos/Banner.png)
 
+<!-- Imágenes de Tecnologías y Herramientas -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+  <div style="margin: 10px;">
+    <img src="Recursos/python.png" alt="Python" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/numpy.png" alt="Numpy" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/pandas.png" alt="Pandas" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/zipfile.png" alt="Zipfile" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/os.png" alt="OS" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/json.png" alt="JSON" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/requests.png" alt="Requests" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/vscode.png" alt="VSCode" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/powerbi.png" alt="Power BI" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/miro.png" alt="Miro" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/slack.png" alt="Slack" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/discord.png" alt="Discord" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/googlemeet.png" alt="Google Meet" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/whatsapp.png" alt="WhatsApp" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/googledrive.png" alt="Google Drive" width="60" height="60">
+  </div>
+  <div style="margin: 10px;">
+    <img src="Recursos/jira.png" alt="Jira" width="60" height="60">
+  </div>
+</div>
 
-# c19-107-ft-data-bi | Fraude-en-Transacciones-Financieras
+# c19-107-ft-data-bi | Fraude en Transacciones Financieras
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) para detectar fraudes en transacciones financieras. Se trabajará con dos conjuntos de datos: uno enfocado exclusivamente en fraudes con tarjetas de crédito y otro que incluye todos los medios de pago. La finalidad es realizar una predicción de los fraudes que podría enfrentar una startup en el año 2025, a medida que se expanda a diferentes ciudades. Además, se integrará información del Banco Central de la República Argentina (BCRA) relacionada con cheques rechazados, dada la relevancia de la emisión de cheques sin fondos como una forma de fraude financiero.
@@ -10,47 +62,48 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 
 <div style="display: flex; align-items: center;">
   <div style="text-align: center; margin-right: 20px;">
-    <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Edgar.png" alt="Javier Edgar Esteban" width="150" height="150">
+    <img src="Recursos/Edgar.png" alt="Javier Edgar Esteban" width="150" height="150">
     <p><strong>Javier Edgar Esteban</strong></p>
     <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
-      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\github.png" alt="GitHub" width="30" height="30">
+      <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
     </a>
     <a href="https://www.linkedin.com/in/jesteban77/" target="_blank">
-      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\LinkedIn.png" alt="LinkedIn" width="30" height="30">
+      <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
     </a>
   </div>
   <div style="text-align: center; margin-right: 20px;">
-    <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Grezilet.png" alt="Grelizet Rojas" width="150" height="150">
+    <img src="Recursos/Grezilet.png" alt="Grelizet Rojas" width="150" height="150">
     <p><strong>Grelizet Rojas</strong></p>
     <a href="https://github.com/grelizet" target="_blank">
-      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\github.png" alt="GitHub" width="30" height="30">
+      <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
     </a>
     <a href="https://linkedin.com/in/grelizet-rojas-yepez" target="_blank">
-      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Linkedin.png" alt="LinkedIn" width="30" height="30">
+      <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
     </a>
   </div>
   <div style="text-align: center; margin-right: 20px;">
-    <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Karina.png" alt="Karina Mas Roca" width="150" height="150">
+    <img src="Recursos/Karina.png" alt="Karina Mas Roca" width="150" height="150">
     <p><strong>Karina Mas Roca</strong></p>
     <a href="https://github.com/misterio22" target="_blank">
-      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\github.png" alt="GitHub" width="30" height="30">
+      <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
     </a>
     <a href="https://linkedin.com/in/karinamasroca/" target="_blank">
-      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Linkedin.png" alt="LinkedIn" width="30" height="30">
+      <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
     </a>
   </div>
   <div style="text-align: center;">
-    <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Mercedes.png" alt="María Mercedes Ramella" width="150" height="150">
+    <img src="Recursos/Mercedes.png" alt="María Mercedes Ramella" width="150" height="150">
     <p><strong>María Mercedes Ramella</strong></p>
     <a href="https://github.com/MechiRamella" target="_blank">
-      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\github.png" alt="GitHub" width="30" height="30">
+      <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
     </a>
     <a href="https://linkedin.com/in/mercedes-ramella/" target="_blank">
-      <img src="c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras\Recursos\Linkedin.png" alt="LinkedIn" width="30" height="30">
+      <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
     </a>
   </div>
 </div>
 
+## Responsabilidades del Equipo
 
 ### **PM/Data Engineer: Javier Edgar Esteban**
 
@@ -83,7 +136,6 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 ### **Team Leader: María Mercedes Ramella**
 
 **Responsabilidades**:
-
 - **Liderazgo del Equipo**: Proveer dirección y guía al equipo, asegurando que los objetivos del proyecto se cumplan de manera efectiva.
 - **Alineación Estratégica**: Asegurar que el proyecto esté alineado con los objetivos estratégicos de la startup y que se enfoque en las prioridades correctas.
 - **Gestión de Stakeholders**: Comunicación y gestión de expectativas con los stakeholders, incluyendo la presentación de avances y resultados.
@@ -105,42 +157,4 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
   - **Google Drive**: Plataforma centralizada para almacenar y compartir documentos del proyecto. Permite la colaboración en tiempo real en documentos, hojas de cálculo y presentaciones, asegurando que todos los miembros del equipo tengan acceso a la información más actualizada.
 
 - **Gestión de Tareas y Proyectos**:
-  - **Jira**: Herramienta principal para la gestión de tareas y proyectos. Permite la creación de historias de usuario, tareas y bugs, así como la planificación y seguimiento de sprints. Proporciona visibilidad del progreso del equipo a través de tableros Kanban y Scrum.
-
-- **Reuniones Diarias**:
-  - **Google Meet, WhatsApp, Slack, Discord**: Utilizados para realizar reuniones diarias (stand-ups) donde el equipo discute el progreso del día anterior, planes para el día actual y cualquier impedimento. La elección de la herramienta puede variar según la disponibilidad y preferencia del equipo.
-
-- **Planificación de Sprint**:
-  - **Jira**: Utilizado para la planificación de sprints, donde se definen los objetivos y las tareas del próximo ciclo de trabajo. Se crean y priorizan historias de usuario y se asignan tareas a los miembros del equipo. El calendario de actividades diarias y semanales también se gestiona aquí, proporcionando un enlace centralizado para acceder a la planificación.
-
-### Tecnologías y Herramientas de Desarrollo
-
-- **Lenguajes de Programación**:
-  - **Python**: Lenguaje de programación principal utilizado en el proyecto. Elegido por su versatilidad y amplia adopción en la comunidad de ciencia de datos y machine learning. Python facilita el desarrollo rápido y eficiente de scripts de análisis de datos, modelos de machine learning y procesos de ETL.
-
-- **Librerías**:
-  - **numpy**: Librería fundamental para el cálculo numérico en Python, proporciona soporte para arrays y matrices multidimensionales, así como una colección de funciones matemáticas de alto nivel.
-  - **pandas**: Herramienta esencial para la manipulación y análisis de datos estructurados. Ofrece estructuras de datos flexibles y eficientes, como DataFrames, que permiten realizar operaciones de limpieza, transformación y agregación de datos.
-  - **zipfile, os, json, requests**: Librerías estándar de Python para la manipulación de archivos comprimidos, interacción con el sistema operativo, manejo de datos en formato JSON y realización de solicitudes HTTP respectivamente. Estas librerías son fundamentales para la extracción y procesamiento de datos desde diferentes fuentes.
-
-- **Entorno de Desarrollo**:
-  - **Visual Studio Code**: Entorno de desarrollo integrado (IDE) elegido por su flexibilidad y soporte extensivo para Python a través de extensiones. Ofrece características como depuración, integración con control de versiones (Git), y una amplia gama de plugins que facilitan el desarrollo de código de alta calidad.
-
-- **Visualización de Datos**:
-  - **Microsoft Power BI**: Herramienta de business intelligence utilizada para la creación de dashboards interactivos y visualizaciones de datos. Permite a los analistas y stakeholders explorar los datos de manera intuitiva y tomar decisiones informadas basadas en insights visuales.
-
-- **Colaboración y Brainstorming**:
-  - **Miro**: Plataforma de colaboración visual utilizada para el brainstorming y la planificación colaborativa. Ofrece un lienzo en línea donde los miembros del equipo pueden agregar notas, diagramas y mapas mentales en tiempo real, facilitando la generación de ideas y la organización de conceptos.
-
-## Conjuntos de Datos
-1. **Fraude en Transacciones Financieras**: Dataset enfocado en fraudes con tarjetas de crédito.
-2. **Fraude en Transacciones en E-commerce**: Dataset que incluye todos los medios de pago.
-3. **Fraude en Cheques emitidos por el BCRA**: Información adicional relevante.
-
-## Presentación de Resultados
-El trabajo se presentará a través de diferentes notebooks y dashboards:
-
-1. **ETL (Extract, Transform, Load)**: Preparación inicial de datos.
-2. **EDA (Exploratory Data Analysis)**: Análisis exploratorio de datos.
-3. **Notebook de Machine Learning**: Desarrollo y evaluación del modelo predictivo.
-4. **Dashboard**: Creación de visualizaciones interactivas con Microsoft Power BI, enlazadas en novyPro para su visualización y acceso público.
+  - **Jira**: Herramienta principal para la gestión de tareas y proyectos. Permite la creación de historias de usuario, tareas y bugs, así como la planificación y seguimiento de sprints
