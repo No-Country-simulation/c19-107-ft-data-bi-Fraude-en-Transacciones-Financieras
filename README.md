@@ -1,22 +1,11 @@
 [![Banner.png](https://i.postimg.cc/C1t2SCwf/Banner.png)](https://postimg.cc/FdypxLd9)
 
-<div style="display: flex; flex-wrap: wrap;">  <img src="Recursos/python.png" alt="Python" width="60" height="60" style="margin: 10px;">  <img src="Recursos/numpy.png" alt="Numpy" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/pandas.png" alt="Pandas" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/zipfile.png" alt="Zipfile" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/os.png" alt="OS" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/json.png" alt="JSON" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/requests.png" alt="Requests" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/vscode.png" alt="VSCode" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/powerbi.png" alt="Power BI" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/miro.png" alt="Miro" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/slack.png" alt="Slack" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/discord.png" alt="Discord" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/googlemeet.png" alt="Google Meet" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/whatsapp.png" alt="WhatsApp" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/googledrive.png" alt="Google Drive" width="60" height="60" style="margin: 10px;">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="Recursos/python.png" alt="Python" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/numpy.png" alt="Numpy" width="60" height="60" style="margin: 10px;">
   <img src="Recursos/jira.png" alt="Jira" width="60" height="60" style="margin: 10px;">
-
 </div>
+
 
 # c19-107-ft-data-bi | Fraude en Transacciones Financieras
 
