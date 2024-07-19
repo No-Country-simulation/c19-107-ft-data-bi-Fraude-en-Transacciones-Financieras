@@ -30,7 +30,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
   </div>
   <div style="text-align: center; margin-right: 20px;">
     <h2>**Data Analyst/BI**</h2>
-    <img src="https://i.postimg.cc/gkFBPZX1/Grezilet-rezize.png" alt="Grelizet Rojas" width="400px" height="400px" style="margin: 0 20px;">
+    <img src="https://i.postimg.cc/gkFBPZX1/Grezilet-rezize.png" alt="Grelizet Rojas" width="250px" height="250px" style="margin: 0 20px;">
     <p><strong>Grelizet Rojas</strong></p>
     <div style="display: flex; justify-content: center;">
       <a href="https://github.com/grelizet" target="_blank">
