@@ -14,43 +14,45 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 
 ## Equipo
 
+## Equipo
+
 <div style="display: flex;">
   <div style="text-align: center; margin-right: 20px;">
     <h2>**PM/Data Engineer**</h2>
-    <img src="https://i.postimg.cc/Y0gnWpVX/Edgar-rezize.png" alt="Javier Edgar Esteban" width="400px" height="400px" style="margin: 0 20px;">
+    <img src="https://i.postimg.cc/Y0gnWpVX/Edgar-rezize.png" alt="Javier Edgar Esteban" width="300px" height="300px" style="margin: 0 20px;">
     <p><strong>Javier Edgar Esteban</strong></p>
     <div style="display: flex; justify-content: center;">
       <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
-        <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
+        <img src="Recursos/github.png" alt="GitHub" width="30" height="30" style="margin: 0 auto;">
       </a>
       <a href="https://www.linkedin.com/in/jesteban77/" target="_blank">
-        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
+        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30" style="margin: 0 auto;">
       </a>
     </div>
   </div>
   <div style="text-align: center; margin-right: 20px;">
     <h2>**Data Analyst/BI**</h2>
-    <img src="https://i.postimg.cc/gkFBPZX1/Grezilet-rezize.png" alt="Grelizet Rojas" width="250px" height="250px" style="margin: 0 20px;">
+    <img src="https://i.postimg.cc/gkFBPZX1/Grezilet-rezize.png" alt="Grelizet Rojas" width="300px" height="300px" style="margin: 0 20px;">
     <p><strong>Grelizet Rojas</strong></p>
     <div style="display: flex; justify-content: center;">
       <a href="https://github.com/grelizet" target="_blank">
-        <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
+        <img src="Recursos/github.png" alt="GitHub" width="30" height="30" style="margin: 0 auto;">
       </a>
       <a href="https://linkedin.com/in/grelizet-rojas-yepez" target="_blank">
-        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
+        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30" style="margin: 0 auto;">
       </a>
     </div>
   </div>
   <div style="text-align: center;">
     <h2>**Scrum Master**</h2>
-    <img src="https://i.postimg.cc/WbGYp10z/Mercedes-rezize.png" alt="María Mercedes Ramella" width="400px" height="400px" style="margin: 0 20px;">
+    <img src="https://i.postimg.cc/WbGYp10z/Mercedes-rezize.png" alt="María Mercedes Ramella" width="300px" height="300px" style="margin: 0 20px;">
     <p><strong>María Mercedes Ramella</strong></p>
     <div style="display: flex; justify-content: center;">
       <a href="https://github.com/MechiRamella" target="_blank">
-        <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
+        <img src="Recursos/github.png" alt="GitHub" width="30" height="30" style="margin: 0 auto;">
       </a>
       <a href="https://linkedin.com/in/mercedes-ramella/" target="_blank">
-        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
+        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30" style="margin: 0 auto;">
       </a>
     </div>
   </div>
