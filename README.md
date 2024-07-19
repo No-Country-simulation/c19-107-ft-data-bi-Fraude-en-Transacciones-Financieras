@@ -1,58 +1,22 @@
-<!-- Banner -->
 [![Banner.png](https://i.postimg.cc/C1t2SCwf/Banner.png)](https://postimg.cc/FdypxLd9)
 
-<!-- Imágenes de Tecnologías y Herramientas -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-  <div style="margin: 10px;">
-    <img src="Recursos/python.png" alt="Python" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/numpy.png" alt="Numpy" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/pandas.png" alt="Pandas" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/zipfile.png" alt="Zipfile" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/os.png" alt="OS" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/json.png" alt="JSON" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/requests.png" alt="Requests" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/vscode.png" alt="VSCode" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/powerbi.png" alt="Power BI" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/miro.png" alt="Miro" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/slack.png" alt="Slack" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/discord.png" alt="Discord" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/googlemeet.png" alt="Google Meet" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/whatsapp.png" alt="WhatsApp" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/googledrive.png" alt="Google Drive" width="60" height="60">
-  </div>
-  <div style="margin: 10px;">
-    <img src="Recursos/jira.png" alt="Jira" width="60" height="60">
-  </div>
-</div>
+<div style="display: flex; flex-wrap: wrap;">  <img src="Recursos/python.png" alt="Python" width="60" height="60" style="margin: 10px;">  <img src="Recursos/numpy.png" alt="Numpy" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/pandas.png" alt="Pandas" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/zipfile.png" alt="Zipfile" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/os.png" alt="OS" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/json.png" alt="JSON" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/requests.png" alt="Requests" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/vscode.png" alt="VSCode" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/powerbi.png" alt="Power BI" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/miro.png" alt="Miro" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/slack.png" alt="Slack" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/discord.png" alt="Discord" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/googlemeet.png" alt="Google Meet" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/whatsapp.png" alt="WhatsApp" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/googledrive.png" alt="Google Drive" width="60" height="60" style="margin: 10px;">
+  <img src="Recursos/jira.png" alt="Jira" width="60" height="60" style="margin: 10px;">
 
+</div>
 
 # c19-107-ft-data-bi | Fraude en Transacciones Financieras
 
@@ -63,34 +27,43 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 
 <div style="display: flex; align-items: center;">
   <div style="text-align: center; margin-right: 20px;">
+    <h2>**PM/Data Engineer**</h2>
     <img src="Recursos/Edgar.png" alt="Javier Edgar Esteban" width="150" height="150">
     <p><strong>Javier Edgar Esteban</strong></p>
-    <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
-      <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
-    </a>
-    <a href="https://www.linkedin.com/in/jesteban77/" target="_blank">
-      <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
-    </a>
+    <div style="display: flex; justify-content: center;">
+      <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
+        <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
+      </a>
+      <a href="https://www.linkedin.com/in/jesteban77/" target="_blank">
+        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
+      </a>
+    </div>
   </div>
   <div style="text-align: center; margin-right: 20px;">
+    <h2>**Data Analyst/BI**</h2>
     <img src="Recursos/Grezilet.png" alt="Grelizet Rojas" width="150" height="150">
     <p><strong>Grelizet Rojas</strong></p>
-    <a href="https://github.com/grelizet" target="_blank">
-      <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
-    </a>
-    <a href="https://linkedin.com/in/grelizet-rojas-yepez" target="_blank">
-      <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
-    </a>
+    <div style="display: flex; justify-content: center;">
+      <a href="https://github.com/grelizet" target="_blank">
+        <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
+      </a>
+      <a href="https://linkedin.com/in/grelizet-rojas-yepez" target="_blank">
+        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
+      </a>
+    </div>
   </div>
   <div style="text-align: center;">
+    <h2>**Scrum Master**</h2>
     <img src="Recursos/Mercedes.png" alt="María Mercedes Ramella" width="150" height="150">
     <p><strong>María Mercedes Ramella</strong></p>
-    <a href="https://github.com/MechiRamella" target="_blank">
-      <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
-    </a>
-    <a href="https://linkedin.com/in/mercedes-ramella/" target="_blank">
-      <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
-    </a>
+    <div style="display: flex; justify-content: center;">
+      <a href="https://github.com/MechiRamella" target="_blank">
+        <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
+      </a>
+      <a href="https://linkedin.com/in/mercedes-ramella/" target="_blank">
+        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
+      </a>
+    </div>
   </div>
 </div>
 
