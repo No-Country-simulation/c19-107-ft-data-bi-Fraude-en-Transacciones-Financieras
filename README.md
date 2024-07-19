@@ -16,53 +16,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 
 |      |      |      |
 | :--: | :--: | :--: |
-| ![Edgar]([![Edgar-rezize.png](https://i.postimg.cc/Y0gnWpVX/Edgar-rezize.png)](https://postimg.cc/sGj4FR3S))<br>**Javier Edgar Esteban | PM/Data Engineer**<br>[<img src="Recursos/LinkedIn.png" style="width:20px;">](https://www.linkedin.com/in/jesteban77/) [<img src="Recursos/github.png" style="width:20px;">](https://github.com/JavierEdgarEsteban77) | ![Grelizet]([![Grezilet-rezize.png](https://i.postimg.cc/gkFBPZX1/Grezilet-rezize.png)](https://postimg.cc/Th0cVhcc))<br>**Grelizet Rojas | Data Analyst/BI**<br>[<img src="Recursos/LinkedIn.png" style="width:20px;">](https://linkedin.com/in/grelizet-rojas-yepez) [<img src="Recursos/github.png" style="width:20px;">](https://github.com/grelizet) | ![Mercedes]([![Mercedes-rezize.png](https://i.postimg.cc/WbGYp10z/Mercedes-rezize.png)](https://postimg.cc/ykNyvBQC))<br>**Mercedes Ramella | Team leader/Startup**<br>[<img src="Recursos/LinkedIn.png" style="width:20px;">](https://linkedin.com/in/mercedes-ramella) [<img src="Recursos/github.png" style="width:20px;">](https://github.com/MechiRamella)|
-
-
-
-# Para modificar
-
-""" <div style="display: flex; justify-content: space-around;">
-  <div style="text-align: center;">
-    <h2>**PM/Data Engineer**</h2>
-    <img src="https://i.postimg.cc/Y0gnWpVX/Edgar-rezize.png" alt="Javier Edgar Esteban" width="300px" height="300px" style="margin: 0 20px;">
-    <p><strong>Javier Edgar Esteban</strong></p>
-    <div style="display: flex; justify-content: center;">
-      <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
-        <img src="Recursos/github.png" alt="GitHub" width="30" height="30" style="margin: 0 auto;">
-      </a>
-      <a href="https://www.linkedin.com/in/jesteban77/" target="_blank">
-        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30" style="margin: 0 auto;">
-      </a>
-    </div>
-  </div>
-  <div style="text-align: center;">
-    <h2>**Data Analyst/BI**</h2>
-    <img src="https://i.postimg.cc/gkFBPZX1/Grezilet-rezize.png" alt="Grelizet Rojas" width="300px" height="300px" style="margin: 0 20px;">
-    <p><strong>Grelizet Rojas</strong></p>
-    <div style="display: flex; justify-content: center;">
-      <a href="https://github.com/grelizet" target="_blank">
-        <img src="Recursos/github.png" alt="GitHub" width="30" height="30" style="margin: 0 auto;">
-      </a>
-      <a href="https://linkedin.com/in/grelizet-rojas-yepez" target="_blank">
-        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30" style="margin: 0 auto;">
-      </a>
-    </div>
-  </div>
-  <div style="text-align: center;">
-    <h2>**Scrum Master**</h2>
-    <img src="https://i.postimg.cc/WbGYp10z/Mercedes-rezize.png" alt="María Mercedes Ramella" width="300px" height="300px" style="margin: 0 20px;">
-    <p><strong>María Mercedes Ramella</strong></p>
-    <div style="display: flex; justify-content: center;">
-      <a href="https://github.com/MechiRamella" target="_blank">
-        <img src="Recursos/github.png" alt="GitHub" width="30" height="30" style="margin: 0 auto;">
-      </a>
-      <a href="https://linkedin.com/in/mercedes-ramella/" target="_blank">
-        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30" style="margin: 0 auto;">
-      </a>
-    </div>
-  </div>
-</div> """
+| ![Edgar]([![Edgar-rezize.png](https://i.postimg.cc/Y0gnWpVX/Edgar-rezize.png)](https://postimg.cc/sGj4FR3S))<br>**PM/Data Engineer**<br>[<img src="Recursos/LinkedIn.png" style="width:20px;">](https://www.linkedin.com/in/jesteban77/) [<img src="Recursos/github.png" style="width:20px;">](https://github.com/JavierEdgarEsteban77) | ![Grelizet]([![Grezilet-rezize.png](https://i.postimg.cc/gkFBPZX1/Grezilet-rezize.png)](https://postimg.cc/Th0cVhcc))<br>**Data Analyst/BI**<br>[<img src="Recursos/LinkedIn.png" style="width:20px;">](https://linkedin.com/in/grelizet-rojas-yepez) [<img src="Recursos/github.png" style="width:20px;">](https://github.com/grelizet) | ![Mercedes]([![Mercedes-rezize.png](https://i.postimg.cc/WbGYp10z/Mercedes-rezize.png)](https://postimg.cc/ykNyvBQC))<br>**Team leader/Startup**<br>[<img src="Recursos/LinkedIn.png" style="width:20px;">](https://linkedin.com/in/mercedes-ramella) [<img src="Recursos/github.png" style="width:20px;">](https://github.com/MechiRamella)|
 
 ## Responsabilidades del Equipo
 
