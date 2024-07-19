@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](Recursos/Banner.png)
+[![Banner.png](https://i.postimg.cc/C1t2SCwf/Banner.png)](https://postimg.cc/FdypxLd9)
 
 <!-- Imágenes de Tecnologías y Herramientas -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
