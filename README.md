@@ -14,12 +14,13 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 
 ## Equipo
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
   <div style="text-align: center; margin-right: 20px;">
     <h2>**PM/Data Engineer**</h2>
-    <img src="Recursos/Edgar.png" alt="Javier Edgar Esteban">
+    <img src="Recursos/Edgar.png" alt="Javier Edgar Esteban" max-width="100%">
     <p><strong>Javier Edgar Esteban</strong></p>
-    <div style="display: flex;">  <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
+    <div style="display: flex; justify-content: center;">
+      <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
         <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
       </a>
       <a href="https://www.linkedin.com/in/jesteban77/" target="_blank">
@@ -29,9 +30,10 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
   </div>
   <div style="text-align: center; margin-right: 20px;">
     <h2>**Data Analyst/BI**</h2>
-    <img src="Recursos/Grezilet.png" alt="Grelizet Rojas">
+    <img src="Recursos/Grezilet.png" alt="Grelizet Rojas" max-width="100%">
     <p><strong>Grelizet Rojas</strong></p>
-    <div style="display: flex;">  <a href="https://github.com/grelizet" target="_blank">
+    <div style="display: flex; justify-content: center;">
+      <a href="https://github.com/grelizet" target="_blank">
         <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
       </a>
       <a href="https://linkedin.com/in/grelizet-rojas-yepez" target="_blank">
@@ -41,17 +43,14 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
   </div>
   <div style="text-align: center;">
     <h2>**Scrum Master**</h2>
-    <img src="Recursos/Mercedes.png" alt="María Mercedes Ramella">
+    <img src="Recursos/Mercedes.png" alt="María Mercedes Ramella" max-width="100%">
     <p><strong>María Mercedes Ramella</strong></p>
-    <div style="display: flex;">  <a href="https://github.com/MechiRamella" target="_blank">
+    <div style="display: flex; justify-content: center;">
+      <a href="https://github.com/MechiRamella" target="_blank">
         <img src="Recursos/github.png" alt="GitHub" width="30" height="30">
       </a>
       <a href="https://linkedin.com/in/mercedes-ramella/" target="_blank">
-        <img src="Recursos/LinkedIn.png" alt="LinkedIn" width="30" height="30">
-      </a>
-    </div>
-  </div>
-</div>
+        <img src="Recursos/LinkedIn.png"
 
 ## Responsabilidades del Equipo
 
