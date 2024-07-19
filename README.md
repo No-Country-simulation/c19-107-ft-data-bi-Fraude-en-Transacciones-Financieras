@@ -18,6 +18,38 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 | :--: | :--: | :--: |
 | <center><img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/b604123d94bc9744b6fdc44d11e7e52520885c1c/Recursos/Edgar_rezize.png" alt="Edgar" style="width:150px;"></center><br>**PM/Data Engineer**<br>[<img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/LinkedIn.png" style="width:30px;">](https://www.linkedin.com/in/jesteban77/) [<img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/github.png" style="width:30px;">](https://github.com/JavierEdgarEsteban77) | <center><img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/Grezilet_rezize.png" alt="Grelizet" style="width:150px;"></center><br>**Data Analyst/BI**<br>[<img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/LinkedIn.png" style="width:30px;">](https://linkedin.com/in/grelizet-rojas-yepez) [<img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/github.png" style="width:30px;">](https://github.com/grelizet) | <center><img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/Mercedes_rezize.png" alt="Mercedes" style="width:150px;"></center><br>**Team leader/Startup**<br>[<img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/LinkedIn.png" style="width:30px;">](https://linkedin.com/in/mercedes-ramella) [<img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/github.png" style="width:30px;">](https://github.com/MechiRamella) |
 
+**Prueba nueva** sin uso
+## Equipo
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/b604123d94bc9744b6fdc44d11e7e52520885c1c/Recursos/Edgar_rezize.png" alt="Edgar" width="150px;">
+    <br>
+    **PM/Data Engineer**
+    <br>
+    <a href="https://www.linkedin.com/in/jesteban77/" target="_blank">
+      <img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/LinkedIn.png" alt="LinkedIn" width="30px" height="30px">
+    </a>
+    <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
+      <img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/github.png" alt="GitHub" width="30px" height="30px">
+    </a>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/Grezilet_rezize.png" alt="Grelizet" width="150px;">
+    <br>
+    **Data Analyst/BI**
+    <br>
+    <a href="https://linkedin.com/in/grelizet-rojas-yepez" target="_blank">
+      <img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/LinkedIn.png" alt="LinkedIn" width="30px" height="30px">
+    </a>
+    <a href="https://github.com/grelizet" target="_blank">
+      <img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/github.png" alt="GitHub" width="30px" height="30px">
+    </a>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/25228c13f96b66a8f9139e69dfa09ab1dc5df6a3/Recursos/Mercedes
+
+
 ## Responsabilidades del Equipo
 
 ### **PM/Data Engineer: Javier Edgar Esteban**
