@@ -17,7 +17,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 <div style="display: flex;">
   <div style="text-align: center; margin-right: 20px;">
     <h2>**PM/Data Engineer**</h2>
-    <img src="https://i.postimg.cc/0j6Tb05s/Edgar.png" alt="Javier Edgar Esteban">
+    <img src="https://i.postimg.cc/0j6Tb05s/Edgar.png" alt="Javier Edgar Esteban" width="60%" height="auto" style="margin: 0 10px;">
     <p><strong>Javier Edgar Esteban</strong></p>
     <div style="display: flex; justify-content: center;">
       <a href="https://github.com/JavierEdgarEsteban77" target="_blank">
@@ -30,7 +30,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
   </div>
   <div style="text-align: center; margin-right: 20px;">
     <h2>**Data Analyst/BI**</h2>
-    <img src="https://i.postimg.cc/dQpMgpnt/Grezilet.png" alt="Grelizet Rojas">
+    <img src="https://i.postimg.cc/dQpMgpnt/Grezilet.png" alt="Grelizet Rojas" width="60%" height="auto" style="margin: 0 10px;">
     <p><strong>Grelizet Rojas</strong></p>
     <div style="display: flex; justify-content: center;">
       <a href="https://github.com/grelizet" target="_blank">
@@ -43,7 +43,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
   </div>
   <div style="text-align: center;">
     <h2>**Scrum Master**</h2>
-    <img src="https://i.postimg.cc/Jz39Dn8G/Mercedes.png" alt="María Mercedes Ramella">
+    <img src="https://i.postimg.cc/Jz39Dn8G/Mercedes.png" alt="María Mercedes Ramella" width="60%" height="auto" style="margin: 0 10px;">
     <p><strong>María Mercedes Ramella</strong></p>
     <div style="display: flex; justify-content: center;">
       <a href="https://github.com/MechiRamella" target="_blank">
@@ -55,6 +55,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
     </div>
   </div>
 </div>
+
 
 ## Responsabilidades del Equipo
 
