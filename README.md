@@ -14,10 +14,8 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 
 ## Equipo
 
-## Equipo
-
-<div style="display: flex;">
-  <div style="text-align: center; margin-right: 20px;">
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center;">
     <h2>**PM/Data Engineer**</h2>
     <img src="https://i.postimg.cc/Y0gnWpVX/Edgar-rezize.png" alt="Javier Edgar Esteban" width="300px" height="300px" style="margin: 0 20px;">
     <p><strong>Javier Edgar Esteban</strong></p>
@@ -30,7 +28,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
       </a>
     </div>
   </div>
-  <div style="text-align: center; margin-right: 20px;">
+  <div style="text-align: center;">
     <h2>**Data Analyst/BI**</h2>
     <img src="https://i.postimg.cc/gkFBPZX1/Grezilet-rezize.png" alt="Grelizet Rojas" width="300px" height="300px" style="margin: 0 20px;">
     <p><strong>Grelizet Rojas</strong></p>
