@@ -7,15 +7,6 @@
 </div>
 
 
-
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="Recursos\python.png>" alt="Python" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/numpy.png" alt="Numpy" width="60" height="60" style="margin: 10px;">
-  <img src="Recursos/jira.png" alt="Jira" width="60" height="60" style="margin: 10px;">
-</div>
-
-
 # c19-107-ft-data-bi | Fraude en Transacciones Financieras
 
 ## Descripción del Proyecto
