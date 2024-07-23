@@ -1,7 +1,7 @@
 [![Banner.png](https://i.postimg.cc/C1t2SCwf/Banner.png)](https://postimg.cc/FdypxLd9)
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="Recursos/python.png" alt="Python" width="60" height="60" style="margin: 10px;">
+  <img src="<i class="fi fi-brands-python"></i>" alt="Python" width="60" height="60" style="margin: 10px;">
   <img src="Recursos/numpy.png" alt="Numpy" width="60" height="60" style="margin: 10px;">
   <img src="Recursos/jira.png" alt="Jira" width="60" height="60" style="margin: 10px;">
 </div>
