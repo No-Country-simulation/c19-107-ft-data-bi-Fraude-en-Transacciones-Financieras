@@ -9,7 +9,7 @@
   <a href="#"><img src="https://i.postimg.cc/svy17T9H/tqdm.gif" alt="Tqdm" width="20" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/zy2Bm8m4/scikit-learn-logo-small.png" alt="Sklearn" width="80" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/R6KVnt3z/wordclouds.png" alt="Wordcloud" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/fk7Rzxnc/plotly.png" alt="Plotly" width="120" height="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/fk7Rzxnc/plotly.png" alt="Plotly" width="140" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/TpRnjVr0/jira.png" alt="Jira" width="30" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/9rJZLDbh/powerBI.png" alt="Power BI" width="60" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/w35hsfs3/Google-Meet.png" alt="Google Meet" width="70" height="30" style="margin: 10px;"></a>
