@@ -1,6 +1,3 @@
-Aquí tienes el extracto de código con todas las imágenes agregadas en una fila debajo del banner:
-
-```markdown
 [![Banner.png](https://i.postimg.cc/C1t2SCwf/Banner.png)](https://postimg.cc/FdypxLd9)
 
 <div style="display: flex; flex-wrap: wrap;">
