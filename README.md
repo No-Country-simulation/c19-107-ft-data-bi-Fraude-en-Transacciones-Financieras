@@ -1,7 +1,7 @@
 [![Banner.png](https://i.postimg.cc/C1t2SCwf/Banner.png)](https://postimg.cc/FdypxLd9)
 
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="https://i.postimg.cc/HkR0M8Z1/python.png"><img src="https://i.postimg.cc/HkR0M8Z1/python.png" alt="Python" width="60" height="60" style="margin: 10px;"></a>
+  <a href="Recursos\python.png"><img src="https://i.postimg.cc/HkR0M8Z1/python.png" alt="Python" width="60" height="60" style="margin: 10px;"></a>
   <a href="https://numpy.org/"><img src="Recursos/numpy.png" alt="Numpy" width="60" height="60" style="margin: 10px;"></a>
   <a href="https://www.atlassian.com/software/jira"><img src="Recursos/jira.png" alt="Jira" width="60" height="60" style="margin: 10px;"></a>
 </div>
