@@ -1,21 +1,22 @@
 [![Banner.png](https://i.postimg.cc/C1t2SCwf/Banner.png)](https://postimg.cc/FdypxLd9)
 
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="https://www.python.org/"><img src="https://i.postimg.cc/W3tYbFDx/python.png" alt="Python" width="30" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/r03xqxBX/librer-as-python.png" alt="Python Libraries" width="30" height="30" style="margin: 10px;"></a>
-  <a href="https://numpy.org/"><img src="https://i.postimg.cc/SsWZSs16/numpylogo.png" alt="Numpy" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/w7cyGCjd/pandas-white.png" alt="Pandas" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/kVD2DDFn/matplotlib.png" alt="Matplotlib" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/svy17T9H/tqdm.gif" alt="Tqdm" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/zy2Bm8m4/scikit-learn-logo-small.png" alt="Sklearn" width="40" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/R6KVnt3z/wordclouds.png" alt="Wordcloud" width="70" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/fk7Rzxnc/plotly.png" alt="Plotly" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/TpRnjVr0/jira.png" alt="Jira" width="30" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/9rJZLDbh/powerBI.png" alt="Power BI" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/w35hsfs3/Google-Meet.png" alt="Google Meet" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/cvCY2dk8/slack-salesforce-logo-nav-white.png" alt="Slack" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/RqC0XXDW/imagen-Whatsapp.jpg" alt="WhatsApp" width="60" height="30" style="margin: 10px;"></a>
+  <a href="https://www.python.org/"><img src="https://i.postimg.cc/W3tYbFDx/python.png" alt="Python" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/r03xqxBX/librer-as-python.png" alt="Python Libraries" width="60" height="60" style="margin: 10px;"></a>
+  <a href="https://numpy.org/"><img src="https://i.postimg.cc/SsWZSs16/numpylogo.png" alt="Numpy" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/w7cyGCjd/pandas-white.png" alt="Pandas" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/kVD2DDFn/matplotlib.png" alt="Matplotlib" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/svy17T9H/tqdm.gif" alt="Tqdm" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/zy2Bm8m4/scikit-learn-logo-small.png" alt="Sklearn" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/R6KVnt3z/wordclouds.png" alt="Wordcloud" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/fk7Rzxnc/plotly.png" alt="Plotly" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/TpRnjVr0/jira.png" alt="Jira" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/9rJZLDbh/powerBI.png" alt="Power BI" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/w35hsfs3/Google-Meet.png" alt="Google Meet" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/cvCY2dk8/slack-salesforce-logo-nav-white.png" alt="Slack" width="60" height="60" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/RqC0XXDW/imagen-Whatsapp.jpg" alt="WhatsApp" width="60" height="60" style="margin: 10px;"></a>
 </div>
+
 
 # c19-107-ft-data-bi | Fraude en Transacciones Financieras
 
