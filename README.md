@@ -5,11 +5,11 @@
   <a href="#"><img src="https://i.postimg.cc/r03xqxBX/librer-as-python.png" alt="Python Libraries" width="30" height="30" style="margin: 10px;"></a>
   <a href="https://numpy.org/"><img src="https://i.postimg.cc/SsWZSs16/numpylogo.png" alt="Numpy" width="60" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/w7cyGCjd/pandas-white.png" alt="Pandas" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/kVD2DDFn/matplotlib.png" alt="Matplotlib" width="70" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/svy17T9H/tqdm.gif" alt="Tqdm" width="30" height="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/kVD2DDFn/matplotlib.png" alt="Matplotlib" width="80" height="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/svy17T9H/tqdm.gif" alt="Tqdm" width="20" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/zy2Bm8m4/scikit-learn-logo-small.png" alt="Sklearn" width="80" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/R6KVnt3z/wordclouds.png" alt="Wordcloud" width="60" height="30" style="margin: 10px;"></a>
-  <a href="#"><img src="https://i.postimg.cc/fk7Rzxnc/plotly.png" alt="Plotly" width="100" height="30" style="margin: 10px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/fk7Rzxnc/plotly.png" alt="Plotly" width="120" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/TpRnjVr0/jira.png" alt="Jira" width="30" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/9rJZLDbh/powerBI.png" alt="Power BI" width="60" height="30" style="margin: 10px;"></a>
   <a href="#"><img src="https://i.postimg.cc/w35hsfs3/Google-Meet.png" alt="Google Meet" width="70" height="30" style="margin: 10px;"></a>
