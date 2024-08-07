@@ -84,3 +84,6 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
 
 - **Gestión de Tareas y Proyectos**:
   - **Jira**: Herramienta principal para la gestión de tareas y proyectos. Permite la creación de historias de usuario, tareas y bugs, así como la planificación y seguimiento de sprints
+
+- **Visualización del Dashboard**:
+  - **PowerBI**: [Dashboard Data Solutions PMV Fraudes en Transacciones Financieras](URL del PDF)
