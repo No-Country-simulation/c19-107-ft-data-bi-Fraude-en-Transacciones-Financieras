@@ -86,4 +86,7 @@ Este proyecto tiene como objetivo desarrollar un Producto Mínimo Viable (MVP) p
   - **Jira**: Herramienta principal para la gestión de tareas y proyectos. Permite la creación de historias de usuario, tareas y bugs, así como la planificación y seguimiento de sprints
 
 - **Visualización del Dashboard**:
-  - **PowerBI**: [Dashboard Data Solutions MVP de Fraudes en Transacciones Financieras proyectadas para el año 2025](https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/f2d1d951fb2075e02952dd34351bb851700f96ef/Recursos/NoCountryTablero.pdf)
+  - **PowerBI**: 
+      - [Link para visualizar el dashboard:](https://www.novypro.com/profile_projects/edgar-y-greli)
+      
+      - [Link para visualizar la presentanción en PDF](https://github.com/No-Country-simulation/c19-107-ft-data-bi-Fraude-en-Transacciones-Financieras/blob/f2d1d951fb2075e02952dd34351bb851700f96ef/Recursos/NoCountryTablero.pdf)
